@@ -1,6 +1,8 @@
 # CyberChef recipe grammar for highlight.js
 
-![version](https://badgen.net/npm/v/highlightjs-cyberchef) ![license](https://badgen.net/badge/license/MIT/blue) ![install size](https://badgen.net/packagephobia/install/highlightjs-cyberchef) ![minified size](https://badgen.net/bundlephobia/min/highlightjs-cyberchef)
+[![version](https://badgen.net/npm/v/highlightjs-cyberchef)](https://www.npmjs.com/package/highlightjs-cyberchef)
+[![license](https://badgen.net/badge/license/MIT/blue)](https://github.com/ObserverOfTime/highlightjs-cyberchef/blob/master/LICENSE)
+[![minified size](https://badgen.net/bundlephobia/min/highlightjs-cyberchef)](https://bundlephobia.com/package/highlightjs-cyberchef)
 
 ## Usage
 
