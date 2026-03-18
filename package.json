@@ -1,0 +1,28 @@
+{
+  "name": "highlightjs-cyberchef",
+  "version": "0.1.0",
+  "description": "CyberChef recipe grammar for highlight.js",
+  "main": "src/languages/cyberchef.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ObserverOfTime/highlightjs-cyberchef.git"
+  },
+  "keywords": [
+    "cyberchef",
+    "hljs",
+    "highlightjs",
+    "highlight.js"
+  ],
+  "author": {
+    "name": "ObserverOfTime",
+    "email": "chronobserver@disroot.org"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ObserverOfTime/highlightjs-cyberchef/issues"
+  },
+  "funding": {
+    "url": "https://github.com/sponsors/ObserverOfTime",
+    "type": "github"
+  }
+}

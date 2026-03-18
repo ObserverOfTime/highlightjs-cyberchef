@@ -1,0 +1,4 @@
+Regular_expression('User defined','\'([A-Za-z0-9+/=]+)\'',false,false,false,false,false,false,'List capture groups')
+Find_/_Replace({'option':'Simple string','string':'BHNZISEUX'},'',true,false,false,false)
+From_Base64('A-Za-z0-9+/=',true,false)
+Decode_text('UTF-16LE (1200)')

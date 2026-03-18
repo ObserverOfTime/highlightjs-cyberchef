@@ -1,0 +1,7 @@
+* text=auto
+
+dist/* linguist-generated
+
+test/detect/cyberchef/default.txt linguist-language=CyberChef linguist-vendored
+test/markup/cyberchef/recipe.txt linguist-language=CyberChef linguist-vendored
+test/markup/cyberchef/recipe.expect.txt linguist-language=HTML linguist-generated

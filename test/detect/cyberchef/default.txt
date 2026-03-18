@@ -1,0 +1,4 @@
+From_Base64('A-Za-z0-9+/=',true,false)
+AES_Decrypt({'option':'Base64','string':'XW/rxEcefeGgLkSZnkuT7xdp4anDC/iUpCgRgENPPto='},{'option':'Base64','string':'kSkHVO9bPsG2F/4Nq5kUBA=='},'CBC','Raw','Raw',{'option':'Hex','string':''},{'option':'Hex','string':''})
+From_Base64('A-Za-z0-9+/=',true,false)
+Decode_text('UTF-16LE (1200)')
