@@ -21,8 +21,7 @@ Simply load the module after loading Highlight.js. You'll use the minified versi
 ### Using directly from the UNPKG CDN
 
 ```html
-<script type="text/javascript"
-  src="https://unpkg.com/highlightjs-cyberchef@0.1.0/dist/cyberchef.min.js"></script>
+<script type="text/javascript" src="https://unpkg.com/highlightjs-cyberchef"></script>
 ```
 
 ## With Node or another build system

@@ -7,6 +7,10 @@
     "import": "./dist/cyberchef.es.min.js",
     "default": "./dist/cyberchef.min.js"
   },
+  "files": [
+    "src/*",
+    "dist/*"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ObserverOfTime/highlightjs-cyberchef.git"
@@ -24,9 +28,5 @@
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/ObserverOfTime/highlightjs-cyberchef/issues"
-  },
-  "funding": {
-    "type": "github",
-    "url": "https://github.com/sponsors/ObserverOfTime"
   }
 }
