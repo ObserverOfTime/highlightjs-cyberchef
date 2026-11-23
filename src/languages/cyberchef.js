@@ -24,7 +24,8 @@ export default function(hljs) {
         className: "string",
         begin: /'/, end: /'/,
         contains: [
-          { begin: /\\'/ }
+          { begin: /\\'/ },
+          { begin: /\\\\/ },
         ]
       },
       {

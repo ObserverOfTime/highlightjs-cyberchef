@@ -1,6 +1,6 @@
 {
   "name": "highlightjs-cyberchef",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "CyberChef recipe grammar for highlight.js",
   "main": "./src/languages/cyberchef.js",
   "exports": {
